@@ -1,0 +1,42 @@
+{
+  "name": "Spam Classifier",
+  "category": "Natural Language Processing",
+  "status": "featured",
+  "source": [
+    "CV",
+    "portfolio"
+  ],
+  "technologies": [
+    "Python",
+    "scikit-learn",
+    "NLTK",
+    "pandas"
+  ],
+  "type": "NLP text classification application",
+  "description": "An NLP-based text classification project that detects spam emails or messages.",
+  "features": [
+    "Spam detection",
+    "Text preprocessing",
+    "TF-IDF vectorization",
+    "Naive Bayes classification",
+    "Logistic Regression classification",
+    "Model comparison"
+  ],
+  "technical_workflow": [
+    "Process and prepare text data.",
+    "Convert text into numerical representations using TF-IDF.",
+    "Train Naive Bayes and Logistic Regression models.",
+    "Compare the classification models.",
+    "Use the trained models to classify text as spam or non-spam."
+  ],
+  "role": "Developed the NLP classification pipeline and compared machine learning models.",
+  "learning_outcomes": [
+    "Natural Language Processing",
+    "Text preprocessing",
+    "TF-IDF",
+    "Text classification",
+    "Naive Bayes",
+    "Logistic Regression",
+    "Model comparison"
+  ]
+}

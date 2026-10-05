@@ -1,0 +1,41 @@
+{
+  "name": "House Price Prediction",
+  "category": "Machine Learning",
+  "status": "featured",
+  "source": [
+    "CV",
+    "portfolio"
+  ],
+  "technologies": [
+    "Python",
+    "scikit-learn",
+    "pandas",
+    "NumPy"
+  ],
+  "type": "Machine learning regression application",
+  "description": "A regression-based machine learning project that predicts house prices using property-related features.",
+  "features": [
+    "House price prediction",
+    "Data preprocessing",
+    "Feature engineering",
+    "Regression modeling",
+    "Model evaluation",
+    "Cross-validation"
+  ],
+  "technical_workflow": [
+    "Process property-related features.",
+    "Apply data preprocessing.",
+    "Perform feature engineering.",
+    "Train a regression model.",
+    "Evaluate the model using cross-validation.",
+    "Use the trained model to predict house prices."
+  ],
+  "role": "Developed the regression pipeline including preprocessing, feature engineering, and model evaluation.",
+  "learning_outcomes": [
+    "Regression",
+    "Data preprocessing",
+    "Feature engineering",
+    "Model evaluation",
+    "Cross-validation"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "House Price Prediction",
+      "github": "https://github.com/varchasva02/house-price-prediction",
+      "status": "featured"
+    },
+    {
+      "name": "Movie Recommendation System",
+      "github": "https://github.com/varchasva02/movie-recommendation-system",
+      "demo": "https://movie-recommendation-system-lknhvdju4agg3wnzzpastt.streamlit.app/",
+      "status": "featured"
+    },
+    {
+      "name": "KicksCulture",
+      "github": null,
+      "demo": "https://kicksculture.vercel.app/",
+      "status": "experimental"
+    },
+    {
+      "name": "PDF RAG Assistant",
+      "github": "https://github.com/varchasva02/pdf-rag-assistant",
+      "demo": null,
+      "status": "featured"
+    },
+    {
+      "name": "Vision AI Assistant",
+      "github": "https://github.com/varchasva02/vision-ai-assistant",
+      "demo": null,
+      "status": "featured"
+    },
+    {
+      "name": "Loan Approval Prediction System",
+      "github": "https://github.com/varchasva02/loan-approval-ml",
+      "demo": "https://gpe2g5cekxkvhzfexpfhdt.streamlit.app/",
+      "status": "featured"
+    },
+    {
+      "name": "Spam Classifier",
+      "github": "https://github.com/varchasva02/spam-classifier",
+      "demo": null,
+      "status": "featured"
+    },
+    {
+      "name": "Finsaa",
+      "github": null,
+      "demo": null,
+      "status": "experimental"
+    }
+  ]
+}

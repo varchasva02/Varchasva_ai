@@ -1,0 +1,10 @@
+{
+  "name": "KicksCulture",
+  "category": "Web Development",
+  "status": "experimental",
+  "source": "additional project",
+  "description": "An e-commerce website project focused on footwear.",
+  "type": "E-commerce web application",
+  "purpose": "Learning and experimentation with modern web development and e-commerce interfaces.",
+  "public": true
+}

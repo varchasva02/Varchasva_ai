@@ -1,0 +1,41 @@
+{
+  "name": "Loan Approval Prediction System",
+  "category": "Machine Learning",
+  "status": "featured",
+  "source": [
+    "CV",
+    "portfolio"
+  ],
+  "technologies": [
+    "Python",
+    "scikit-learn",
+    "pandas",
+    "Streamlit"
+  ],
+  "type": "Machine learning classification application",
+  "description": "An end-to-end classification application that predicts loan approval using financial features.",
+  "features": [
+    "Loan approval prediction",
+    "Interactive Streamlit interface",
+    "Real-time predictions",
+    "Confidence scores",
+    "Risk analysis",
+    "Probability breakdown",
+    "Key influencing factors"
+  ],
+  "technical_workflow": [
+    "Process financial features.",
+    "Use a trained classification model to predict loan approval.",
+    "Generate prediction probabilities.",
+    "Display confidence scores and risk-related information.",
+    "Present the prediction through an interactive Streamlit interface."
+  ],
+  "role": "Developed the end-to-end machine learning application and interactive interface.",
+  "learning_outcomes": [
+    "Classification",
+    "Machine learning model development",
+    "Prediction probabilities",
+    "Model interpretation",
+    "Streamlit application development"
+  ]
+}

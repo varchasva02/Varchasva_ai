@@ -1,0 +1,42 @@
+{
+  "name": "Movie Recommendation System",
+  "category": "Machine Learning",
+  "status": "featured",
+  "source": [
+    "CV",
+    "portfolio"
+  ],
+  "technologies": [
+    "Python",
+    "scikit-learn",
+    "pandas",
+    "Streamlit",
+    "TMDB API"
+  ],
+  "type": "Content-based movie recommendation system",
+  "description": "An interactive movie recommendation system that recommends movies based on similarities in movie metadata.",
+  "features": [
+    "Content-based movie recommendations",
+    "Cosine similarity",
+    "TMDB API integration",
+    "Movie posters",
+    "Movie ratings",
+    "Genre-based fallback recommendations",
+    "Interactive Streamlit interface"
+  ],
+  "technical_workflow": [
+    "Process movie metadata.",
+    "Calculate similarity between movies using cosine similarity.",
+    "Generate recommendations based on similar movie content.",
+    "Use the TMDB API to retrieve movie posters and ratings.",
+    "Provide fallback recommendations based on similar genres."
+  ],
+  "role": "Developed and deployed the interactive recommendation application.",
+  "learning_outcomes": [
+    "Recommendation systems",
+    "Content-based filtering",
+    "Cosine similarity",
+    "API integration",
+    "Streamlit application development"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "languages": [
+    "Python",
+    "C",
+    "C++",
+    "Java",
+    "JavaScript"
+  ],
+  "ai_ml": [
+    "scikit-learn",
+    "PyTorch",
+    "pandas",
+    "NumPy",
+    "Matplotlib"
+  ],
+  "generative_ai": [
+    "RAG",
+    "LLMs",
+    "FAISS",
+    "Sentence Transformers",
+    "Ollama"
+  ],
+  "frameworks_and_tools": [
+    "Flask",
+    "Streamlit",
+    "Git",
+    "GitHub",
+    "VS Code"
+  ],
+  "domains": [
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Generative AI",
+    "Data Science"
+  ]
+}

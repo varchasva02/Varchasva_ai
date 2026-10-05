@@ -1,0 +1,10 @@
+{
+  "name": "Finsaa",
+  "category": "Web Development",
+  "status": "experimental",
+  "source": "additional project",
+  "description": "A finance-focused website project for a vehicle finance business.",
+  "type": "Business website",
+  "purpose": "Web development project for presenting a vehicle finance business and its services.",
+  "public": true
+}

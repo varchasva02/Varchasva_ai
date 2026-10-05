@@ -1,0 +1,34 @@
+{
+  "current_education": {
+    "institution": "Jaypee University of Information Technology",
+    "abbreviation": "JUIT",
+    "location": "Solan, Himachal Pradesh, India",
+    "program": "B.Tech in Computer Science & Engineering (AI/ML)",
+    "start_year": 2024,
+    "expected_graduation": 2028,
+    "cgpa": 7.57,
+    "focus_areas": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Science"
+    ]
+  },
+  "previous_education": [
+    {
+      "institution": "Maheshwari Public School",
+      "location": "Ajmer, Rajasthan, India",
+      "level": "Class XII",
+      "board": "CBSE",
+      "year": 2023,
+      "percentage": 92
+    },
+    {
+      "institution": "Maheshwari Public School",
+      "location": "Ajmer, Rajasthan, India",
+      "level": "Class X",
+      "board": "CBSE",
+      "year": 2021,
+      "percentage": 85
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "currently learning",
+  "areas": [
+    {
+      "topic": "Python",
+      "context": "Strengthening Python skills for AI/ML development."
+    },
+    {
+      "topic": "JavaScript",
+      "context": "Improving JavaScript skills for web development and AI application interfaces."
+    },
+    {
+      "topic": "PyTorch",
+      "context": "Learning and developing deeper skills in deep learning."
+    },
+    {
+      "topic": "Large Language Models",
+      "context": "Exploring LLM-based applications and generative AI."
+    },
+    {
+      "topic": "Retrieval-Augmented Generation",
+      "context": "Building and improving RAG-based applications."
+    },
+    {
+      "topic": "AI Agents",
+      "context": "Exploring agent-based AI systems."
+    },
+    {
+      "topic": "Transformers",
+      "context": "Learning transformer-based AI architectures and applications."
+    },
+    {
+      "topic": "Computer Vision",
+      "context": "Exploring vision-based AI applications."
+    }
+  ]
+}

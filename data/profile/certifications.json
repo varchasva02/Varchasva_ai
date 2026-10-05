@@ -1,0 +1,14 @@
+{
+  "certifications": [
+    {
+      "name": "Frontend Development",
+      "provider": "Internshala",
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsive Web Design"
+      ]
+    }
+  ]
+}

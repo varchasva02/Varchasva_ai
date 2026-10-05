@@ -1,0 +1,43 @@
+{
+  "name": "PDF RAG Assistant",
+  "category": "Generative AI",
+  "status": "featured",
+  "source": [
+    "CV",
+    "portfolio"
+  ],
+  "technologies": [
+    "Python",
+    "Flask",
+    "Sentence Transformers",
+    "FAISS",
+    "Ollama"
+  ],
+  "type": "RAG-based document question answering application",
+  "description": "A Flask-based RAG application that allows users to ask questions about uploaded PDF documents.",
+  "features": [
+    "PDF document upload",
+    "PDF content extraction",
+    "Text chunking",
+    "Sentence Transformer embeddings",
+    "FAISS-based semantic retrieval",
+    "LLM-powered question answering using retrieved document context"
+  ],
+  "technical_workflow": [
+    "Extract content from uploaded PDF documents.",
+    "Split the extracted content into chunks.",
+    "Generate embeddings using Sentence Transformers.",
+    "Store the embeddings in a FAISS vector index.",
+    "Retrieve relevant document chunks for a user query.",
+    "Use an LLM through Ollama to generate an answer from the retrieved context."
+  ],
+  "role": "Designed and developed the RAG pipeline and Flask-based application.",
+  "learning_outcomes": [
+    "Retrieval-Augmented Generation",
+    "Semantic search",
+    "Vector embeddings",
+    "Vector similarity search",
+    "LLM integration",
+    "Document-based question answering"
+  ]
+}

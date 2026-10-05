@@ -1,0 +1,40 @@
+{
+  "name": "Vision AI Assistant",
+  "category": "Generative AI",
+  "status": "featured",
+  "source": [
+    "CV",
+    "portfolio"
+  ],
+  "technologies": [
+    "Python",
+    "Flask",
+    "JavaScript",
+    "Ollama",
+    "Vision LLM"
+  ],
+  "type": "Vision-based AI question answering application",
+  "description": "An AI assistant that accepts images and user questions and generates contextual responses using a vision-capable large language model.",
+  "features": [
+    "Image upload",
+    "Image preview",
+    "User question input",
+    "Vision-based question answering",
+    "Conversational interaction"
+  ],
+  "technical_workflow": [
+    "Accept an image from the user.",
+    "Allow the user to provide a question about the image.",
+    "Pass the image and question to a vision-capable LLM.",
+    "Generate a contextual response.",
+    "Display the response through the Flask-based interface."
+  ],
+  "role": "Designed and developed the Flask-based application and interactive interface.",
+  "learning_outcomes": [
+    "Vision-capable LLMs",
+    "Multimodal AI",
+    "Image-based question answering",
+    "LLM integration",
+    "Flask application development"
+  ]
+}
