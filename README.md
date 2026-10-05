@@ -383,13 +383,12 @@ The health check runs immediately when the application loads and every 30 second
 
 ## 👨‍💻 Author
 
-**Varchasva**
+**Kumar Varchasva**
 
 AIML Student interested in Artificial Intelligence, Machine Learning, Full-Stack Development, and practical AI applications.
 
 ### Connect
 
-- GitHub: https://github.com/varchasva02
 - Portfolio / Live Demo: https://varchasva-ai.vercel.app/
 
 ---
