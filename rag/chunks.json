@@ -1,0 +1,282 @@
+[
+  {
+    "text": "Subject: Project Links\n\nProjects:\n    Name: House Price Prediction\n    Github: https://github.com/varchasva02/house-price-prediction\n    Status: featured\n    Name: Movie Recommendation System\n    Github: https://github.com/varchasva02/movie-recommendation-system\n    Demo: https://movie-recommendation-system-lknhvdju4agg3wnzzpastt.streamlit.app/\n    Status: featured\n    Name: KicksCulture\n    Github: None\n    Demo: https://kicksculture.vercel.app/\n    Status: experimental\n    Name: PDF RAG Assistant\n    Github: https://github.com/varchasva02/pdf-rag-assistant\n    Demo: None\n    Status: featured\n    Name: Vision AI Assistant\n    Github: https://github.com/varchasva02/vision-ai-assistant\n    Demo: None\n    Status: featured\n    Name: Loan Approval Prediction System\n    Github: https://github.com/varchasva02/loan-approval-ml\n    Demo: https://gpe2g5cekxkvhzfexpfhdt.streamlit.app/\n    Status: featured\n    Name: Spam Classifier\n    Github: https://github.com/varchasva02/spam-classifier\n    Demo: None\n    Status: featured\n    Name: Finsaa\n    Github: None\n    Demo: None\n    Status: experimental",
+    "metadata": {
+      "source": "links/project-links.json",
+      "subject": "Project Links",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Public_Links\n\nGithub:\n  Url: https://github.com/varchasva02\n  Description: Varchasva's GitHub profile containing his public projects and code.\nLinkedin:\n  Url: https://linkedin.com/in/varchasva-tak-aa5b5031a\n  Description: Varchasva's LinkedIn profile.\nPortfolio:\n  Description: Varchasva's personal portfolio website.",
+    "metadata": {
+      "source": "links/public_links.json",
+      "subject": "Public_Links",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Data Ingenious\n\nCompany: Data Ingenious Global Pvt Ltd\nRole: AI/ML Intern\nProgram: SummerXcellence Internship 2026\nDuration: 6 weeks\nStart Date: 05 June 2026\nEnd Date: 17 July 2026\nResponsibilities:\n  - Worked on AI/ML application development involving machine learning and deep learning workflows.\n  - Developed a PDF RAG Assistant using Flask, Sentence Transformers, FAISS, and Ollama for document-based question answering.\n  - Developed a Vision AI Assistant for image-based question answering using a vision-capable LLM and Flask interface.\n  - Worked on testing, optimization, documentation, and final project presentation.",
+    "metadata": {
+      "source": "experience/data-ingenious.json",
+      "subject": "Data Ingenious",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Technical\n\nLanguages:\n  - Python\n  - C\n  - C++\n  - Java\n  - JavaScript\nAi Ml:\n  - scikit-learn\n  - PyTorch\n  - pandas\n  - NumPy\n  - Matplotlib\nGenerative Ai:\n  - RAG\n  - LLMs\n  - FAISS\n  - Sentence Transformers\n  - Ollama\nFrameworks And Tools:\n  - Flask\n  - Streamlit\n  - Git\n  - GitHub\n  - VS Code\nDomains:\n  - Machine Learning\n  - Deep Learning\n  - NLP\n  - Generative AI\n  - Data Science",
+    "metadata": {
+      "source": "skills/technical.json",
+      "subject": "Technical",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Currently Learning\n\nStatus: currently learning\nAreas:\n    Topic: Python\n    Context: Strengthening Python skills for AI/ML development.\n    Topic: JavaScript\n    Context: Improving JavaScript skills for web development and AI application interfaces.\n    Topic: PyTorch\n    Context: Learning and developing deeper skills in deep learning.\n    Topic: Large Language Models\n    Context: Exploring LLM-based applications and generative AI.\n    Topic: Retrieval-Augmented Generation\n    Context: Building and improving RAG-based applications.\n    Topic: AI Agents\n    Context: Exploring agent-based AI systems.\n    Topic: Transformers\n    Context: Learning transformer-based AI architectures and applications.\n    Topic: Computer Vision\n    Context: Exploring vision-based AI applications.",
+    "metadata": {
+      "source": "profile/currently-learning.json",
+      "subject": "Currently Learning",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Education\n\nCurrent Education:\n  Institution: Jaypee University of Information Technology\n  Abbreviation: JUIT\n  Location: Solan, Himachal Pradesh, India\n  Program: B.Tech in Computer Science & Engineering (AI/ML)\n  Start Year: 2024\n  Expected Graduation: 2028\n  Cgpa: 7.57\n  Focus Areas:\n    - Artificial Intelligence\n    - Machine Learning\n    - Computer Science\nPrevious Education:\n    Institution: Maheshwari Public School\n    Location: Ajmer, Rajasthan, India\n    Level: Class XII\n    Board: CBSE\n    Year: 2023\n    Percentage: 92\n    Institution: Maheshwari Public School\n    Location: Ajmer, Rajasthan, India\n    Level: Class X\n    Board: CBSE\n    Year: 2021\n    Percentage: 85",
+    "metadata": {
+      "source": "profile/education.json",
+      "subject": "Education",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Goals\n\nProfessional Direction:\n  - AI/ML\n  - Generative AI\n  - Deep Learning\n  - LLM applications\n  - RAG systems\n  - AI application development\nProject Goal: Build practical AI/ML applications that combine machine learning with useful software interfaces.\nCareer Goal: Pursue opportunities and internships in AI/ML and continue developing practical experience through projects.\nLearning Approach: Learn by building projects and experimenting with AI/ML technologies.",
+    "metadata": {
+      "source": "profile/goals.json",
+      "subject": "Goals",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Certifications\n\nCertifications:\n    Name: Frontend Development\n    Provider: Internshala\n    Topics:\n      - HTML\n      - CSS\n      - JavaScript\n      - Responsive Web Design",
+    "metadata": {
+      "source": "profile/certifications.json",
+      "subject": "Certifications",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Varchasva\n\nName: Varchasva\nRole: B.Tech Computer Science and Engineering (AI/ML) student\nUniversity: Jaypee University of Information Technology, Solan\nInterests:\n  - Artificial Intelligence\n  - Machine Learning\n  - Deep Learning\n  - Generative AI\n  - RAG\n  - LLMs\n  - NLP\n  - Data Science\nDescription: Varchasva is a Computer Science and Engineering student specializing in AI/ML who enjoys building practical applications involving machine learning, generative AI, and software development.",
+    "metadata": {
+      "source": "profile/about.json",
+      "subject": "Varchasva",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Subject: Extracurricular\n\nActivities:\n    Organization: IEEE Student Branch\n    Institution: Jaypee University of Information Technology, Solan\n    Role: Student Branch Member",
+    "metadata": {
+      "source": "profile/extracurricular.json",
+      "subject": "Extracurricular",
+      "section": "complete"
+    }
+  },
+  {
+    "text": "Project: KicksCulture\nCategory: Web Development\nStatus: experimental\n\nType: E-commerce web application\nDescription: An e-commerce website project focused on footwear.",
+    "metadata": {
+      "source": "projects/experimental/kicksculture.json",
+      "subject": "KicksCulture",
+      "section": "overview",
+      "category": "Web Development",
+      "status": "experimental"
+    }
+  },
+  {
+    "text": "Project: Finsaa\nCategory: Web Development\nStatus: experimental\n\nType: Business website\nDescription: A finance-focused website project for a vehicle finance business.",
+    "metadata": {
+      "source": "projects/experimental/finsaa.json",
+      "subject": "Finsaa",
+      "section": "overview",
+      "category": "Web Development",
+      "status": "experimental"
+    }
+  },
+  {
+    "text": "Project: PDF RAG Assistant\nCategory: Generative AI\nStatus: featured\n\nType: RAG-based document question answering application\nDescription: A Flask-based RAG application that allows users to ask questions about uploaded PDF documents.",
+    "metadata": {
+      "source": "projects/featured/pdf-rag-assistant.json",
+      "subject": "PDF RAG Assistant",
+      "section": "overview",
+      "category": "Generative AI",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: PDF RAG Assistant\nCategory: Generative AI\n\nTechnologies:\n  - Python\n  - Flask\n  - Sentence Transformers\n  - FAISS\n  - Ollama\nFeatures:\n  - PDF document upload\n  - PDF content extraction\n  - Text chunking\n  - Sentence Transformer embeddings\n  - FAISS-based semantic retrieval\n  - LLM-powered question answering using retrieved document context\nTechnical Workflow:\n  - Extract content from uploaded PDF documents.\n  - Split the extracted content into chunks.\n  - Generate embeddings using Sentence Transformers.\n  - Store the embeddings in a FAISS vector index.\n  - Retrieve relevant document chunks for a user query.\n  - Use an LLM through Ollama to generate an answer from the retrieved context.",
+    "metadata": {
+      "source": "projects/featured/pdf-rag-assistant.json",
+      "subject": "PDF RAG Assistant",
+      "section": "technical",
+      "category": "Generative AI",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: PDF RAG Assistant\n\nRole: Designed and developed the RAG pipeline and Flask-based application.\nLearning Outcomes:\n  - Retrieval-Augmented Generation\n  - Semantic search\n  - Vector embeddings\n  - Vector similarity search\n  - LLM integration\n  - Document-based question answering",
+    "metadata": {
+      "source": "projects/featured/pdf-rag-assistant.json",
+      "subject": "PDF RAG Assistant",
+      "section": "role_and_learning",
+      "category": "Generative AI",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Movie Recommendation System\nCategory: Machine Learning\nStatus: featured\n\nType: Content-based movie recommendation system\nDescription: An interactive movie recommendation system that recommends movies based on similarities in movie metadata.",
+    "metadata": {
+      "source": "projects/featured/movie-recommendation.json",
+      "subject": "Movie Recommendation System",
+      "section": "overview",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Movie Recommendation System\nCategory: Machine Learning\n\nTechnologies:\n  - Python\n  - scikit-learn\n  - pandas\n  - Streamlit\n  - TMDB API\nFeatures:\n  - Content-based movie recommendations\n  - Cosine similarity\n  - TMDB API integration\n  - Movie posters\n  - Movie ratings\n  - Genre-based fallback recommendations\n  - Interactive Streamlit interface\nTechnical Workflow:\n  - Process movie metadata.\n  - Calculate similarity between movies using cosine similarity.\n  - Generate recommendations based on similar movie content.\n  - Use the TMDB API to retrieve movie posters and ratings.\n  - Provide fallback recommendations based on similar genres.",
+    "metadata": {
+      "source": "projects/featured/movie-recommendation.json",
+      "subject": "Movie Recommendation System",
+      "section": "technical",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Movie Recommendation System\n\nRole: Developed and deployed the interactive recommendation application.\nLearning Outcomes:\n  - Recommendation systems\n  - Content-based filtering\n  - Cosine similarity\n  - API integration\n  - Streamlit application development",
+    "metadata": {
+      "source": "projects/featured/movie-recommendation.json",
+      "subject": "Movie Recommendation System",
+      "section": "role_and_learning",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: House Price Prediction\nCategory: Machine Learning\nStatus: featured\n\nType: Machine learning regression application\nDescription: A regression-based machine learning project that predicts house prices using property-related features.",
+    "metadata": {
+      "source": "projects/featured/house-price-prediction.json",
+      "subject": "House Price Prediction",
+      "section": "overview",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: House Price Prediction\nCategory: Machine Learning\n\nTechnologies:\n  - Python\n  - scikit-learn\n  - pandas\n  - NumPy\nFeatures:\n  - House price prediction\n  - Data preprocessing\n  - Feature engineering\n  - Regression modeling\n  - Model evaluation\n  - Cross-validation\nTechnical Workflow:\n  - Process property-related features.\n  - Apply data preprocessing.\n  - Perform feature engineering.\n  - Train a regression model.\n  - Evaluate the model using cross-validation.\n  - Use the trained model to predict house prices.",
+    "metadata": {
+      "source": "projects/featured/house-price-prediction.json",
+      "subject": "House Price Prediction",
+      "section": "technical",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: House Price Prediction\n\nRole: Developed the regression pipeline including preprocessing, feature engineering, and model evaluation.\nLearning Outcomes:\n  - Regression\n  - Data preprocessing\n  - Feature engineering\n  - Model evaluation\n  - Cross-validation",
+    "metadata": {
+      "source": "projects/featured/house-price-prediction.json",
+      "subject": "House Price Prediction",
+      "section": "role_and_learning",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Loan Approval Prediction System\nCategory: Machine Learning\nStatus: featured\n\nType: Machine learning classification application\nDescription: An end-to-end classification application that predicts loan approval using financial features.",
+    "metadata": {
+      "source": "projects/featured/loan-approval.json",
+      "subject": "Loan Approval Prediction System",
+      "section": "overview",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Loan Approval Prediction System\nCategory: Machine Learning\n\nTechnologies:\n  - Python\n  - scikit-learn\n  - pandas\n  - Streamlit\nFeatures:\n  - Loan approval prediction\n  - Interactive Streamlit interface\n  - Real-time predictions\n  - Confidence scores\n  - Risk analysis\n  - Probability breakdown\n  - Key influencing factors\nTechnical Workflow:\n  - Process financial features.\n  - Use a trained classification model to predict loan approval.\n  - Generate prediction probabilities.\n  - Display confidence scores and risk-related information.\n  - Present the prediction through an interactive Streamlit interface.",
+    "metadata": {
+      "source": "projects/featured/loan-approval.json",
+      "subject": "Loan Approval Prediction System",
+      "section": "technical",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Loan Approval Prediction System\n\nRole: Developed the end-to-end machine learning application and interactive interface.\nLearning Outcomes:\n  - Classification\n  - Machine learning model development\n  - Prediction probabilities\n  - Model interpretation\n  - Streamlit application development",
+    "metadata": {
+      "source": "projects/featured/loan-approval.json",
+      "subject": "Loan Approval Prediction System",
+      "section": "role_and_learning",
+      "category": "Machine Learning",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Vision AI Assistant\nCategory: Generative AI\nStatus: featured\n\nType: Vision-based AI question answering application\nDescription: An AI assistant that accepts images and user questions and generates contextual responses using a vision-capable large language model.",
+    "metadata": {
+      "source": "projects/featured/vision-ai-assistant.json",
+      "subject": "Vision AI Assistant",
+      "section": "overview",
+      "category": "Generative AI",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Vision AI Assistant\nCategory: Generative AI\n\nTechnologies:\n  - Python\n  - Flask\n  - JavaScript\n  - Ollama\n  - Vision LLM\nFeatures:\n  - Image upload\n  - Image preview\n  - User question input\n  - Vision-based question answering\n  - Conversational interaction\nTechnical Workflow:\n  - Accept an image from the user.\n  - Allow the user to provide a question about the image.\n  - Pass the image and question to a vision-capable LLM.\n  - Generate a contextual response.\n  - Display the response through the Flask-based interface.",
+    "metadata": {
+      "source": "projects/featured/vision-ai-assistant.json",
+      "subject": "Vision AI Assistant",
+      "section": "technical",
+      "category": "Generative AI",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Vision AI Assistant\n\nRole: Designed and developed the Flask-based application and interactive interface.\nLearning Outcomes:\n  - Vision-capable LLMs\n  - Multimodal AI\n  - Image-based question answering\n  - LLM integration\n  - Flask application development",
+    "metadata": {
+      "source": "projects/featured/vision-ai-assistant.json",
+      "subject": "Vision AI Assistant",
+      "section": "role_and_learning",
+      "category": "Generative AI",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Spam Classifier\nCategory: Natural Language Processing\nStatus: featured\n\nType: NLP text classification application\nDescription: An NLP-based text classification project that detects spam emails or messages.",
+    "metadata": {
+      "source": "projects/featured/spam-classifier.json",
+      "subject": "Spam Classifier",
+      "section": "overview",
+      "category": "Natural Language Processing",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Spam Classifier\nCategory: Natural Language Processing\n\nTechnologies:\n  - Python\n  - scikit-learn\n  - NLTK\n  - pandas\nFeatures:\n  - Spam detection\n  - Text preprocessing\n  - TF-IDF vectorization\n  - Naive Bayes classification\n  - Logistic Regression classification\n  - Model comparison\nTechnical Workflow:\n  - Process and prepare text data.\n  - Convert text into numerical representations using TF-IDF.\n  - Train Naive Bayes and Logistic Regression models.\n  - Compare the classification models.\n  - Use the trained models to classify text as spam or non-spam.",
+    "metadata": {
+      "source": "projects/featured/spam-classifier.json",
+      "subject": "Spam Classifier",
+      "section": "technical",
+      "category": "Natural Language Processing",
+      "status": "featured"
+    }
+  },
+  {
+    "text": "Project: Spam Classifier\n\nRole: Developed the NLP classification pipeline and compared machine learning models.\nLearning Outcomes:\n  - Natural Language Processing\n  - Text preprocessing\n  - TF-IDF\n  - Text classification\n  - Naive Bayes\n  - Logistic Regression\n  - Model comparison",
+    "metadata": {
+      "source": "projects/featured/spam-classifier.json",
+      "subject": "Spam Classifier",
+      "section": "role_and_learning",
+      "category": "Natural Language Processing",
+      "status": "featured"
+    }
+  }
+]
