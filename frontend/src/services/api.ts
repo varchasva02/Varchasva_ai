@@ -1,6 +1,7 @@
 import type { AskResponse } from "../types/chat";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:5000";
+const rawApiUrl = (import.meta.env.VITE_API_URL as string | undefined)?.trim();
+const API_URL = rawApiUrl ? rawApiUrl.replace(/\/+$/, "") : "http://127.0.0.1:5000";
 
 const REQUEST_TIMEOUT_MS = 30_000;
 
@@ -68,16 +69,25 @@ export async function askVarchasva(question: string): Promise<string> {
 }
 
 /**
- * Check if the backend API is reachable.
+ * Check if the backend API is reachable and healthy.
+ * Queries GET ${VITE_API_URL}/
  */
 export async function checkHealth(): Promise<boolean> {
   try {
     const response = await fetch(`${API_URL}/`, {
       method: "GET",
+      headers: {
+        Accept: "application/json",
+      },
       signal: AbortSignal.timeout(5000),
     });
+
+    if (!response.ok) {
+      return false;
+    }
+
     const data = await response.json();
-    return data.status === "online";
+    return data?.status === "online";
   } catch {
     return false;
   }

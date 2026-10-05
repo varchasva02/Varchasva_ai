@@ -12,11 +12,26 @@ function generateId(): string {
 export default function App() {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [isOnline, setIsOnline] = useState(true);
+  const [healthStatus, setHealthStatus] = useState<"checking" | "online" | "offline">("checking");
 
-  // Check backend health on mount
+  // Health-check backend root endpoint immediately and every 30 seconds
   useEffect(() => {
-    checkHealth().then(setIsOnline);
+    let isMounted = true;
+
+    const performHealthCheck = async () => {
+      const online = await checkHealth();
+      if (isMounted) {
+        setHealthStatus(online ? "online" : "offline");
+      }
+    };
+
+    performHealthCheck();
+    const intervalId = setInterval(performHealthCheck, 30_000);
+
+    return () => {
+      isMounted = false;
+      clearInterval(intervalId);
+    };
   }, []);
 
   const sendMessage = useCallback(
@@ -46,7 +61,7 @@ export default function App() {
         };
 
         setMessages((prev) => [...prev, assistantMessage]);
-        setIsOnline(true);
+        setHealthStatus("online");
       } catch (error) {
         const errorMessage =
           error instanceof Error
@@ -64,8 +79,12 @@ export default function App() {
         setMessages((prev) => [...prev, assistantError]);
 
         // If it was a connection error, mark as offline
-        if (errorMessage.toLowerCase().includes("connect")) {
-          setIsOnline(false);
+        if (
+          errorMessage.toLowerCase().includes("connect") ||
+          errorMessage.toLowerCase().includes("server") ||
+          errorMessage.toLowerCase().includes("failed to fetch")
+        ) {
+          setHealthStatus("offline");
         }
       } finally {
         setIsLoading(false);
@@ -110,9 +129,19 @@ export default function App() {
         <div className="header-right">
           <div className="header-status">
             <span
-              className={`status-dot ${!isOnline ? "status-dot--offline" : ""}`}
+              className={`status-dot ${
+                healthStatus === "offline"
+                  ? "status-dot--offline"
+                  : healthStatus === "checking"
+                  ? "status-dot--checking"
+                  : ""
+              }`}
             />
-            {isOnline ? "Online" : "Offline"}
+            {healthStatus === "offline"
+              ? "OFFLINE"
+              : healthStatus === "online"
+              ? "ONLINE"
+              : "CHECKING..."}
           </div>
         </div>
       </header>

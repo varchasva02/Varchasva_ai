@@ -99,11 +99,19 @@
 }
 
 .status-dot--offline {
-  background: var(--burgundy);
+  background: #ef4444;
 }
 
 .status-dot--offline::after {
-  background: var(--burgundy);
+  background: #ef4444;
+}
+
+.status-dot--checking {
+  background: var(--beige);
+}
+
+.status-dot--checking::after {
+  background: var(--beige);
 }
 
 .header-tagline {
